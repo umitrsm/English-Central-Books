@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">English Central Books</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="library">Library</string>
+    <string name="error_message">There is no internet connection or Local Data in storage. Please try to use the app online!</string>
+    <string name="error_message_favorites">You haven\'t added any books to your favorites yet.</string>
+    <string name="book_detail">BOOK DETAIL</string>
+    <string name="book_name">Book name:</string>
+    <string name="book_author">Book Author:</string>
+    <string name="book_description">Book Description:</string>
+    <string name="book_age_group">Book Age Group:</string>
+    <string name="book_contributor">Book Contributor:</string>
+    <string name="book_price">Book Price:</string>
+
+</resources>

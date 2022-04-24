@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.bookDetail.BookDetailFragment">
+
+    <include
+        android:id="@+id/appbar"
+        layout="@layout/toolbar"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/bookImage"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintStart_toStartOf="@+id/appbar"
+        app:layout_constraintTop_toBottomOf="@+id/appbar" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/bookDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="@string/book_detail"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/bookImage"
+        app:layout_constraintStart_toStartOf="@+id/bookImage"
+        app:layout_constraintTop_toBottomOf="@+id/bookImage" />
+
+    <View
+        android:id="@+id/dividerOne"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookDetail"
+        app:layout_constraintStart_toStartOf="@+id/bookDetail"
+        app:layout_constraintTop_toBottomOf="@+id/bookDetail" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bookNameView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:layout_constraintStart_toStartOf="@+id/dividerOne"
+        app:layout_constraintTop_toBottomOf="@+id/dividerOne">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookNameTitle"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/book_name"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/bookNameTitle"
+            app:layout_constraintTop_toTopOf="@+id/bookNameView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/dividerTwo"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookNameView"
+        app:layout_constraintStart_toStartOf="@+id/bookNameView"
+        app:layout_constraintTop_toBottomOf="@+id/bookNameView" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bookAuthorView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:layout_constraintStart_toStartOf="@+id/dividerTwo"
+        app:layout_constraintTop_toBottomOf="@+id/dividerTwo">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookAuthorTitle"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/book_author"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/bookAuthorTitle"
+            app:layout_constraintTop_toTopOf="@+id/bookAuthorView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/dividerThree"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookAuthorView"
+        app:layout_constraintStart_toStartOf="@+id/bookAuthorView"
+        app:layout_constraintTop_toBottomOf="@+id/bookAuthorView" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bookDescriptionView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:layout_constraintStart_toStartOf="@+id/dividerThree"
+        app:layout_constraintTop_toBottomOf="@+id/dividerThree">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookDescriptionTitle"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/book_description"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/bookDescriptionTitle"
+            app:layout_constraintTop_toTopOf="@+id/bookDescriptionView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/dividerFour"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookDescriptionView"
+        app:layout_constraintStart_toStartOf="@+id/bookDescriptionView"
+        app:layout_constraintTop_toBottomOf="@+id/bookDescriptionView" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bookAgeView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:layout_constraintStart_toStartOf="@+id/dividerFour"
+        app:layout_constraintTop_toBottomOf="@+id/dividerFour">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookAgeTitle"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/book_age_group"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/bookAgeTitle"
+            app:layout_constraintTop_toTopOf="@+id/bookAgeView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/dividerFive"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookAgeView"
+        app:layout_constraintStart_toStartOf="@+id/bookAgeView"
+        app:layout_constraintTop_toBottomOf="@+id/bookAgeView" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bookContributorView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:layout_constraintStart_toStartOf="@+id/dividerFive"
+        app:layout_constraintTop_toBottomOf="@+id/dividerFive">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookContributorTitle"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/book_contributor"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookContributor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/bookContributorTitle"
+            app:layout_constraintTop_toTopOf="@+id/bookContributorView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:id="@+id/dividerSix"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookContributorView"
+        app:layout_constraintStart_toStartOf="@+id/bookContributorView"
+        app:layout_constraintTop_toBottomOf="@+id/bookContributorView" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bookPriceView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:layout_constraintStart_toStartOf="@+id/dividerSix"
+        app:layout_constraintTop_toBottomOf="@+id/dividerSix">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookPriceTitle"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/book_price"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bookPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toEndOf="@+id/bookPriceTitle"
+            app:layout_constraintTop_toTopOf="@+id/bookPriceView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/gray"
+        app:layout_constraintEnd_toEndOf="@+id/bookPriceView"
+        app:layout_constraintStart_toStartOf="@+id/bookPriceView"
+        app:layout_constraintTop_toBottomOf="@+id/bookPriceView" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/app/src/main/assets/mm_menu.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/app/src/main/java/tr/com/topkapidanismanlik/PazaramaApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/container/PazaramaContainer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/network/PazaramaApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/network/PazaramaService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/network/common/ServiceError.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/network/response/PazaramaResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/PazaramaMMActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/home/HomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/market/category/adapter/MarketCategoryBannerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/market/home/MarketHomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/market/home/adapter/MarketPazaramaBannerAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/market/product/MarketProductDetailFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/PaymentSummaryActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/PaymentSummaryViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/addr/PaymentAddressFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/paymentType/PaymentTypeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/paymentType/PaymentTypeViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/paymentType/customView/AddCardView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/payment/summary/paymentType/customView/CardHiddenView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/pet/petprofile/PetProfileRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/utils/FragmentViewBindingDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/res/layout/pz_fragment_payment_summary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/res/layout/pz_item_market_cargo_banner.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/res/values/strings_market.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/BugFix/pazarama/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/app/src/main/java/com/softtech/parakod/facelift/pazarama/MaxiPazaramaHomeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/app/src/main/java/com/softtech/parakod/maximum_wallet/WalletApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/app/src/main/java/com/softtech/parakod/splash/DeepLinkManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/app/src/main/java/com/softtech/parakod/utils/UrlConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/app/src/main/assets/mm_menu.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/app/src/main/java/tr/com/topkapidanismanlik/PazaramaApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/pazarama/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/components/MaximumPazaramaMenuView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/PazaramaMMActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/base/NavigationListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/MM-NEW/libs/pazaramalib/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/home/HomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/extesions/FragmentExtensions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/network/PazaramaApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/account/address/add/AddAddressFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/base/PzBaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/base/PzBaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/pet/petprofile/PazaramaPetProfileFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/ui/pet/petprofile/PetProfileViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/java/tr/com/topkapidanismanlik/pazarama/utils/PazaramaDateFormatter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Topkapi/Pazarama-Maxipuan/pazarama/src/main/res/layout/pz_fragment_pazarama_pet_profile.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Books-App/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/kapt/debug/com/egb/englishcentralbooks/EnglishCenterApp_HiltComponents.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/egb/englishcentralbooks/db/BookListDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/egb/englishcentralbooks/network/models/BookListResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/egb/englishcentralbooks/ui/books/BooksViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/EnglishCenterApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/BookListDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/BookListDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/entity/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/entity/BookDb.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/entity/BookListDb.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/db/entity/FavDb.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/di/DBModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/di/DatabaseModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/di/RetrofitModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/extensions/FragmentExtension.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/extensions/ImageViewExtension.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/extensions/Logs.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/BooksService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/datasource/Event.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/datasource/Mapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/datasource/Resource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/datasource/Source.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/BaseResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/Book.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/BookListResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/BooksByTypeResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/BooksbyType.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/BuyLink.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/NetworkResult.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/Results.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/Source.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/deneme/BooksByTypeResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/network/models/deneme/Results.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/base/BaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/base/NavigationListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/base/RoundedBottomSheetDialogFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/bookDetail/BookDetailFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/BooksHomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/BooksRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/BooksViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/BottomSheetListFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/adapter/BooksAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/adapter/SelectionBottomSheetAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/repository/BooksMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/repository/BooksRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/repository/BooksRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/books/repository/TypedBooksMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/ui/favoriteBooks/FavoriteBooksFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/utils/ActivityViewBindingDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/utils/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/utils/FragmentViewBindingDelegate.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/egb/englishcentralbooks/utils/Logs.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bottom_sheet_rounded.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_added_fav_icon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_back_button.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_fav_icon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_switch_icon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/layout_border.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/book_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_base.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_book_detail.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_books_favorites.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_books_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_text.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/favorites.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/layout_direction.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/pz_close.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/style_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/network_security_config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../URTBase2/app/src/main/java/com/example/urtbase/ui/base/BaseFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../umitrsm/News-master/News-master/app/src/main/java/com/akshay/newsapp/news/api/NewsArticle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../umitrsm/News-master/News-master/app/src/main/java/com/akshay/newsapp/news/api/NewsService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../umitrsm/News-master/News-master/app/src/main/java/com/akshay/newsapp/news/storage/NewsDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../umitrsm/News-master/News-master/app/src/main/java/com/akshay/newsapp/news/storage/entity/NewsArticleDb.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/RickandRock-main/RickandRock-main/app/src/main/java/com/example/samplecase/repository/CharactersRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/RickandRock-main/RickandRock-main/app/src/main/java/com/example/samplecase/repository/CharactersRepositorySource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
