@@ -10,7 +10,7 @@ interface BookListDao {
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insert(bookListResponse: List<BookListDb>)
 
-    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insertBooks(bookListResponse: List<BookDb>)
 
     @Query("UPDATE books SET fav = :isFav WHERE title = :fav")
